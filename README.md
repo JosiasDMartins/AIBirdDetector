@@ -1,6 +1,9 @@
 # AI Bird Detector
 This is an AI Bird Detector for multi-purpose use.
 
+- TensorFlor with Keras API
+- OpenCV
+
 ## Datasets
 Kaggle 220 bird species classification: 
 - https://www.kaggle.com/datasets/kedarsai/bird-species-classification-220-categories
