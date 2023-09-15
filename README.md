@@ -1,7 +1,7 @@
 # AI Bird Detector
 This is an AI Bird Detector for multi-purpose use.
 
-- TensorFlor with Keras API
+- TensorFlow with Keras API
 - OpenCV
 
 ## Datasets
