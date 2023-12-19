@@ -28,7 +28,7 @@ The data augmentation is made by Keras Image Generator. The transformations appl
 - width_shift_range=0.2
 - height_shift_range=0.2
 - shear_range=0.25
-- zoom_range=0.2=
+- zoom_range=0.2
 - horizontal_flip=True
 - fill_mode='nearest'
 
